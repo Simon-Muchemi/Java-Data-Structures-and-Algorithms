@@ -6,9 +6,8 @@ public class Main {
         array.insert(3);
         array.insert(2);
         array.insert(1);
+        array.index_Of(5);
+        array.print();
 
-        //array.print();
-        array.check();
-        array.removeAt(0);
         }
-}
+    }
