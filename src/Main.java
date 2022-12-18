@@ -6,6 +6,9 @@ public class Main {
         linklist.addLast(40);
         linklist.addLast(50);
 //        linklist.indexOf(20);
+//        linklist.removeFirst();
+        linklist.removeLast();
         System.out.println(linklist.contains(60));
+
         }
     }
