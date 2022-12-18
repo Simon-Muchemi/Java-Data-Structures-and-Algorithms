@@ -55,7 +55,8 @@ public class LinkedLists {
 
         //System.out.println(-1);
     }
-    /* public boolean contains(int item){
+    public boolean contains(int item){
         indexOf(item);
-    }*/
+        return flag != 0;
+    }
 }
