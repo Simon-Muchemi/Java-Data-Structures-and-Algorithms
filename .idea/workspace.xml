@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="46e671f4-7b3f-4f8b-a43a-2c3d1c2dad26" name="Changes" comment="Day 4: LinkedLists: added removeFirst() and removeLast() successfully.">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java Data Structures and Algorithms.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BMI.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Stacks.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/reversingAString.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Node.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="PUSH_AUTO_UPDATE" value="true" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2IrurnfOFAXUhoUKFEdEt279DR0" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "dart.analysis.tool.window.visible": "false",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "run.code.analysis.last.selected.profile": "pProject Default",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="46e671f4-7b3f-4f8b-a43a-2c3d1c2dad26" name="Changes" comment="" />
+      <created>1670952238647</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1670952238647</updated>
+      <workItem from="1670952246368" duration="2524000" />
+      <workItem from="1670964268494" duration="163000" />
+      <workItem from="1670965275393" duration="2152000" />
+      <workItem from="1671050083744" duration="664000" />
+      <workItem from="1671094037305" duration="1550000" />
+      <workItem from="1671136318037" duration="2918000" />
+      <workItem from="1671173899563" duration="1310000" />
+      <workItem from="1671181719165" duration="861000" />
+      <workItem from="1671249378520" duration="5606000" />
+      <workItem from="1671298678359" duration="604000" />
+      <workItem from="1671309737074" duration="747000" />
+      <workItem from="1671311651131" duration="756000" />
+      <workItem from="1671349977377" duration="1122000" />
+      <workItem from="1671383922910" duration="1869000" />
+      <workItem from="1672256078022" duration="691000" />
+      <workItem from="1676497847583" duration="2139000" />
+    </task>
+    <task id="LOCAL-00001" summary="Day 1: Arrays">
+      <created>1670967118760</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1670967118760</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Day 2: Arrays Part 2">
+      <created>1671181952027</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1671181952027</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Day 3: LinkedLists">
+      <created>1671251695786</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1671251695786</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Day 3: LinkedLists: added indexof(), addLast(), addFirst() successfully.">
+      <created>1671297995356</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1671297995356</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Day 4: LinkedLists: added contains() successfully.">
+      <created>1671350505830</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1671350505830</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Day 4: LinkedLists: added removeFirst() and removeLast() successfully.">
+      <created>1671385716178</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1671385716178</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Day 1: Arrays" />
+    <MESSAGE value="Day 2: Arrays Part 2" />
+    <MESSAGE value="Day 3: LinkedLists" />
+    <MESSAGE value="Day 3: LinkedLists: added indexof(), addLast(), addFirst() successfully." />
+    <MESSAGE value="Day 4: LinkedLists: added contains() successfully." />
+    <MESSAGE value="Day 4: LinkedLists: added removeFirst() and removeLast() successfully." />
+    <option name="LAST_COMMIT_MESSAGE" value="Day 4: LinkedLists: added removeFirst() and removeLast() successfully." />
+  </component>
+  <component name="XDebuggerManager">
+    <pin-to-top-manager>
+      <pinned-members>
+        <PinnedItemInfo parentTag="LinkedLists" memberName="itemIndex" />
+      </pinned-members>
+    </pin-to-top-manager>
+  </component>
+</project>
